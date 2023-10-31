@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fun | Laura Zang</title>
+    <link>https://laurazang-emory.github.io/tag/fun/</link>
+      <atom:link href="https://laurazang-emory.github.io/tag/fun/index.xml" rel="self" type="application/rss+xml" />
+    <description>fun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>https://laurazang-emory.github.io/media/icon_hua80d6f8f36b4191f5ffc448ac29101d4_5066_512x512_fill_lanczos_center_3.png</url>
+      <title>fun</title>
+      <link>https://laurazang-emory.github.io/tag/fun/</link>
+    </image>
+    
+    <item>
+      <title>Vacation to Aruba</title>
+      <link>https://laurazang-emory.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Sat, 20 May 2023 21:13:14 -0500</pubDate>
+      <guid>https://laurazang-emory.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <description>&lt;h1 id=&#34;one-happy-island&#34;&gt;One happy island&lt;/h1&gt;
+&lt;p&gt;3rd time to visit the happy island &lt;a href=&#34;https://www.aruba.com/us/our-island/one-happy-island&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.aruba.com/us/our-island/one-happy-island&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vacation | Laura Zang</title>
+    <link>https://laurazang-emory.github.io/category/vacation/</link>
+      <atom:link href="https://laurazang-emory.github.io/category/vacation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vacation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>https://laurazang-emory.github.io/media/icon_hua80d6f8f36b4191f5ffc448ac29101d4_5066_512x512_fill_lanczos_center_3.png</url>
+      <title>Vacation</title>
+      <link>https://laurazang-emory.github.io/category/vacation/</link>
+    </image>
+    
+    <item>
+      <title>Vacation to Aruba</title>
+      <link>https://laurazang-emory.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Sat, 20 May 2023 21:13:14 -0500</pubDate>
+      <guid>https://laurazang-emory.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <description>&lt;h1 id=&#34;one-happy-island&#34;&gt;One happy island&lt;/h1&gt;
+&lt;p&gt;3rd time to visit the happy island &lt;a href=&#34;https://www.aruba.com/us/our-island/one-happy-island&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.aruba.com/us/our-island/one-happy-island&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vacation to Azores</title>
+      <link>https://laurazang-emory.github.io/post/getting-started/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurazang-emory.github.io/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;I visited the island on 2022/12&lt;/li&gt;
+&lt;li&gt;more to come&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;fun-stories&#34;&gt;Fun stories&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 sunset&lt;/li&gt;
+&lt;li&gt;📚 cat&lt;/li&gt;
+&lt;li&gt;💬 Cow&lt;/li&gt;
+&lt;li&gt;🐦 birds&lt;/li&gt;
+&lt;li&gt;💡 New Year Eve&lt;/li&gt;
+&lt;li&gt;⬆️ I will come back&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pictures&#34;&gt;Pictures&lt;/h2&gt;
+&lt;p&gt;Pictures to come&amp;hellip;..&lt;/p&gt;
+&lt;h2 id=&#34;history-about-the-island&#34;&gt;History about the island&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
